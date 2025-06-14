@@ -15,7 +15,6 @@ dependencies:
   sqflite: ^2.3.0
   path: ^1.8.0
   geolocator: ^10.1.0
-  geocoding: ^3.0.0
   shared_preferences: ^2.2.2
   crypto: ^3.0.3
   mysql1: ^0.20.0
