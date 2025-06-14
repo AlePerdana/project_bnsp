@@ -1,0 +1,1 @@
+ C:\\Users\\ASUS\\Documents\\Kuliah\\bnsp\\project_bnsp\\.dart_tool\\flutter_build\\1a4c6e4ad17b127e995e3305e7c7347f\\native_assets.json: 

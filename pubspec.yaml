@@ -1,0 +1,30 @@
+name: project_bnsp
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.1.0
+  sqflite: ^2.3.0
+  path: ^1.8.0
+  geolocator: ^10.1.0
+  geocoding: ^3.0.0
+  shared_preferences: ^2.2.2
+  crypto: ^3.0.3
+  mysql1: ^0.20.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
